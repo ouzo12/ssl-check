@@ -1,5 +1,6 @@
 # ssl-check
-Checking for SSL expire on websites and ports.
+Checking for SSL expire on websites and ports.<br>
+This require a linux distro with openssl.
 
 cmk_ssl-check.sh can be used as a plugin for CheckMK.
 
